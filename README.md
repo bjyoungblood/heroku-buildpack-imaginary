@@ -6,7 +6,8 @@
 
 This is the official [Heroku buildpack][buildpack] for [Go][go].
 
-## Getting Started
+This buildpack install a recent version of [Go][go] programming language and [libvips](https://github.com/jcupitt/libvips) library,
+both required by imaginary
 
 Follow the guide at
 <https://devcenter.heroku.com/articles/getting-started-with-go>
@@ -14,7 +15,7 @@ Follow the guide at
 There's also a hello world sample app at
 <https://github.com/heroku/go-getting-started>
 
-## Example
+## Thanks
 
 ```console
 $ ls -A1
